@@ -1,18 +1,20 @@
-10 Remove Vowels
+# `10` Remove Vowels
 Take note:
 
-Arrow functions allow a short syntax for writing function expressions.
+**Arrow functions allow a short syntax for writing function expressions**.
 
+```Javascript
 const multi = (x, y) => x * y;
 console.log(multi(2,2));
+```
 📝 Instructions:
-Create an arrow function called rapid it will take a string.
+1. Create an arrow function called `rapid` it will take a string.
 
-Loop the string and take out all vowels.
+2. Loop the string and take out all vowels.
 
-Capitalize the consonants.
+3. Capitalize the consonants.
 
-Return the new string.
+4. Return the new string.
 
 💡 Hint:
-Implement these methods in your code to get the correct return: .toLowerCase() and .toUpperCase()
+- Implement these methods in your code to get the correct return: `.toLowerCase()` and `.toUpperCase()`
